@@ -1,3 +1,3 @@
-class SecurityQuestion < ActiveRecord::Base
-  
+class SecurityQuestion
+
 end
